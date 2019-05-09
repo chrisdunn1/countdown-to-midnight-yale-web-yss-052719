@@ -13,7 +13,7 @@ end
 countdown(10)
 
 
-def countdown(int)
+def countdown(num)
 
     while num > 0
       sleep 1
