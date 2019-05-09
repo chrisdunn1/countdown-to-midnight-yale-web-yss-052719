@@ -10,7 +10,7 @@ end
 end
 
 
-countdown(10)
+countdown(4)
 
 
 def countdown(int)
