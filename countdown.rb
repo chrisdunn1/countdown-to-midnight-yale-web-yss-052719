@@ -2,6 +2,7 @@
 def countdown(int)
     x = -1
     while x < int
+      sleep 1
       puts "#{int} SECOND(S)!"
       int -= 1
 
